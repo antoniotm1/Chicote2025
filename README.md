@@ -18,5 +18,5 @@ primeiros passos para usar o SolidElectrical via GitHub
 pronto, a pasta esta no seu pc
 
 agora, voce usou o solid e quer salvar o progresso?
-
+"cd(nome da pasta)"
 vai em "source control" e digita uma msg e vai em "commit & push"
