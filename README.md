@@ -18,5 +18,5 @@ primeiros passos para usar o SolidElectrical via GitHub
 pronto, a pasta esta no seu pc
 
 agora, voce usou o solid e quer salvar o progresso?
-"cd(nome da pasta)"
-vai em "source control" e digita uma msg e vai em "commit & push"
+abre a pasta "Chicote2025" no vscode
+vai em "source control" e digita uma msg pra identidicar a mudança e vai em "commit & push"
