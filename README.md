@@ -20,3 +20,5 @@ pronto, a pasta esta no seu pc
 agora, voce usou o solid e quer salvar o progresso?
 abre a pasta "Chicote2025" no vscode
 vai em "source control" e digita uma msg pra identidicar a mudança e vai em "commit & push"
+
+lembra de upar antes de começar a editar
