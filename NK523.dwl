@@ -1,3 +1,3 @@
-Micro
-DESKTOP-QDKO2MA 
-quinta-feira, 10 de outubro de 2024  19:57:50
+breno
+BRENO-PC 
+segunda-feira, 14 de outubro de 2024  14:16:08

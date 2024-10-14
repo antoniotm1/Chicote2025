@@ -34,4 +34,3 @@ e avisa no grupo do server TO USANDO
 TERMINEI DE USAR.
 antigamente usávamos siglas para montagem geral "aberta e fechada"
 
-mjjjjj
